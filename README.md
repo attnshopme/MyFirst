@@ -1,2 +1,2 @@
 # MyFirst
-MyFirst
+MyFirst is for starting out
